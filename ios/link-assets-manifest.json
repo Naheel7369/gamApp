@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/index.js",
+      "sha1": "be6eb63f09f1e8411563c1c19f76c133682e9b35"
+    },
+    {
+      "path": "assets/fonts/SankofaDisplay-Regular.ttf",
+      "sha1": "05bfc7602a8ef41dec452551a7530ba28a65dd3f"
+    }
+  ]
+}
